@@ -4,6 +4,17 @@ Generate shell commands with natural language using OpenAI.
 
 ![shellgpt](https://user-images.githubusercontent.com/8614151/224351481-e90d5591-1d0a-4c99-b109-8eeec387b6b4.gif)
 
+## Usage
+
+```bash
+npx shellgpt
+
+# or
+npm i shellgpt -g
+# then
+shellgpt
+```
+
 ## Requirement
 
 1. Set your openai API key to env variable.
@@ -16,12 +27,6 @@ export OPENAI_API_KEY={your-key}
 
 ```shell
 export https_proxy={your-proxy-url}
-```
-
-## Usage
-
-```bash
-npx shellgpt
 ```
 
 ### Get your OpenAI API key

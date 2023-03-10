@@ -1,11 +1,9 @@
 {
   "name": "shellgpt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/index.js",
-  "bin": {
-    "shellgpt": "bin/shellgpt"
-  },
+  "bin": "bin/shellgpt",
   "scripts": {
     "build": "tsc -p .",
     "start": "ts-node --esm index.ts",
