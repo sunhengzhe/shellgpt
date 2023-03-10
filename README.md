@@ -1,12 +1,12 @@
 # shellgpt
 
-Generate shell commands with natural language using OpenAI.
+Talk with ChatGPT in Terminal 🤖
 
 ![shellgpt](https://user-images.githubusercontent.com/8614151/224351481-e90d5591-1d0a-4c99-b109-8eeec387b6b4.gif)
 
 ## Usage
 
-```bash
+```shell
 npx shellgpt
 
 # or
